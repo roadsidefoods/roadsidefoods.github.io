@@ -190,3 +190,11 @@ table[shade="green"] {
 .small:before {
 	font-size: 3em;
 }
+
+#food {
+	font-size: 2rem;
+}
+
+#price {
+	font-size: 2rem;
+}
