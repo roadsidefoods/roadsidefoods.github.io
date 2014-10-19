@@ -178,3 +178,15 @@ table[shade="red"] {
 table[shade="green"] {
 	background-color: #B2CF72;
 }
+
+.massive:before {
+	font-size: 15em;
+}
+
+.large:before {
+	font-size: 9em;
+}
+
+.small:before {
+	font-size: 3em;
+}

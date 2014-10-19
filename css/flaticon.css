@@ -11,21 +11,32 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
 	font-family: Flaticon;
-        font-size: 20px;
 font-style: normal;
 margin-left: 20px;
-}.flaticon-chicken14:before {
+}.flaticon-bowl10:before {
 	content: "\e000";
 }
-
-.c-icon:before {
-	font-size: 10em;
+.flaticon-chef20:before {
+	content: "\e001";
 }
-
-#infobar {
-	font-weight: normal;
+.flaticon-chicken14:before {
+	content: "\e002";
 }
-
-#availability {
-	font-size: 0.8rem;
+.flaticon-cooking11:before {
+	content: "\e003";
+}
+.flaticon-covered16:before {
+	content: "\e004";
+}
+.flaticon-covered18:before {
+	content: "\e005";
+}
+.flaticon-rice:before {
+	content: "\e006";
+}
+.flaticon-rice2:before {
+	content: "\e007";
+}
+.flaticon-rounded44:before {
+	content: "\e008";
 }
