@@ -188,7 +188,7 @@ table[shade="green"] {
 }
 
 .small:before {
-	font-size: 3em;
+	font-size: 5em;
 }
 
 #food {
@@ -196,5 +196,13 @@ table[shade="green"] {
 }
 
 #price {
-	font-size: 2rem;
+ 	font-size: 3rem;
+}
+
+#highlight {
+	font-weight: normal;
+	background-color: inherit;
+	color: inherit;
+	padding-right: 30px;
+	padding-left: 30px;
 }
