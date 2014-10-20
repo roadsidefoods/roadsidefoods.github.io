@@ -212,4 +212,13 @@ table[shade="green"] {
 
 #foodinfo {
 	font-size: 1rem;
+	font-weight: normal
+}
+
+#empty {
+	padding-top: 50px;
+}
+
+.table td {
+	font-weight: normal!important;
 }
