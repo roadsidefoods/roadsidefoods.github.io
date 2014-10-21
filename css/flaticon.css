@@ -36,33 +36,39 @@ font-style: normal;
 .flaticon-go5:before {
 	content: "\e007";
 }
-.flaticon-restaurant34:before {
+.flaticon-medal5:before {
 	content: "\e008";
 }
-.flaticon-restaurant36:before {
+.flaticon-picnic3:before {
 	content: "\e009";
 }
-.flaticon-rice:before {
+.flaticon-restaurant34:before {
 	content: "\e00a";
 }
-.flaticon-rice2:before {
+.flaticon-restaurant36:before {
 	content: "\e00b";
 }
-.flaticon-rupees:before {
+.flaticon-rice:before {
 	content: "\e00c";
 }
-.flaticon-sandglass1:before {
+.flaticon-rice2:before {
 	content: "\e00d";
 }
-.flaticon-triangular42:before {
+.flaticon-rupees:before {
 	content: "\e00e";
 }
-.flaticon-water42:before {
+.flaticon-sandglass1:before {
 	content: "\e00f";
 }
-.flaticon-weighing6:before {
+.flaticon-triangular42:before {
 	content: "\e010";
 }
-.flaticon-wheat10:before {
+.flaticon-water42:before {
 	content: "\e011";
+}
+.flaticon-weighing6:before {
+	content: "\e012";
+}
+.flaticon-wheat10:before {
+	content: "\e013";
 }
