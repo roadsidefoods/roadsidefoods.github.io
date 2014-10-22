@@ -222,3 +222,23 @@ table[shade="green"] {
 .table td {
 	font-weight: normal!important;
 }
+
+.ui.basic.button {
+	color: #112D4D!important;
+	text-transform: lowercase;
+	font-family: inherit;
+	font-weight: normal;
+	margin: 10px 0px 10px 0px;
+}
+
+.mce_inline_error {
+	text-transform: lowercase!important;
+}
+
+#mce-error-response {
+	text-transform: lowercase!important;
+}
+
+#mce-success-response {
+	text-transform: lowercase!important;
+}
