@@ -233,12 +233,18 @@ table[shade="green"] {
 
 .mce_inline_error {
 	text-transform: lowercase!important;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 #mce-error-response {
 	text-transform: lowercase!important;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 #mce-success-response {
 	text-transform: lowercase!important;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
