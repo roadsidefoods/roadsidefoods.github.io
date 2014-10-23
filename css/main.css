@@ -242,18 +242,24 @@ table[shade="green"] {
 .mce_inline_error {
 	text-transform: lowercase!important;
 	padding-bottom: 10px;
+	padding-left: 25px;
 	font-size: 0.8em;
+	text-align: left;
 }
 
 
 #mce-error-response {
 	text-transform: lowercase!important;
 	padding-bottom: 10px;
+	padding-left: 25px;
 	font-size: 0.8em;
+	text-align: left;
 }
 
 #mce-success-response {
 	text-transform: lowercase!important;
 	padding-bottom: 10px;
+	padding-left: 25px;
 	font-size: 0.8em;
+	text-align: left;
 }
