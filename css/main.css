@@ -223,28 +223,37 @@ table[shade="green"] {
 	font-weight: normal!important;
 }
 
+.ui.button {
+	vertical-align: inherit!important;
+	text-align: left;
+	padding: .8em 1em;
+}
+
+.ui.input input {
+	border: 1px solid rgba(0,0,0,.11);
+}
+
 .ui.basic.button {
-	color: #112D4D!important;
+	color: #B43251!important;
 	text-transform: none!important;
 	font-family: inherit;
-	font-weight: normal;
-	margin: 10px 0px 10px 0px;
 }
 
 .mce_inline_error {
 	text-transform: lowercase!important;
 	padding-bottom: 10px;
-	padding-top: 10px;
+	font-size: 0.8em;
 }
+
 
 #mce-error-response {
 	text-transform: lowercase!important;
 	padding-bottom: 10px;
-	padding-top: 10px;
+	font-size: 0.8em;
 }
 
 #mce-success-response {
 	text-transform: lowercase!important;
 	padding-bottom: 10px;
-	padding-top: 10px;
+	font-size: 0.8em;
 }
