@@ -212,7 +212,8 @@ table[shade="green"] {
 
 #foodinfo {
 	font-size: 1rem;
-	font-weight: normal
+	font-weight: normal;
+	margin-top: 0px;
 }
 
 #empty {
